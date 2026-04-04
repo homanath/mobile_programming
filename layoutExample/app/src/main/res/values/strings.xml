@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">layoutExample</string>
+    <string name="name">Name of the student </string>
+    <string name="address">Permanent Address </string>
+    <string name="phone">Phone number </string>
+</resources>
