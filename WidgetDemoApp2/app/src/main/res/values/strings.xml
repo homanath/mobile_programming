@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WidgetDemoApp</string>
+    <string name="title">User Information</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="courses">
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Software Engineering</item>
+        <item>Data Science</item>
+    </string-array>
+</resources>
